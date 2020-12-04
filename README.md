@@ -1,0 +1,2 @@
+##
+We  build  a  model  describing  the  propagation  of  COVID-19  within  a  small,  close–knitpopulation of susceptible individuals, which can be taken as representative of the NYUADcampus.  The model is used to assess the NYUAD COVID-19 screening strategy, evaluatinghow many potential infected individuals there might be within the community at the momentof the first detection.  The results may be used to improve the screening strategy, compatiblywith given constraints in terms of number of tested individuals, and frequency of the tests.
